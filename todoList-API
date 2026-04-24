@@ -1,0 +1,76 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Kerjakan assignment 5",
+      "completed": false,
+      "priority": 3
+    },
+    {
+      "id": 2,
+      "title": "Belajar Javascript",
+      "completed": false,
+      "priority": 2
+    },
+    {
+      "id": 3,
+      "title": "Tonton recording class 11",
+      "completed": false,
+      "priority": 1
+    },
+    {
+      "id": 4,
+      "title": "Edit assignment 4",
+      "completed": false,
+      "priority": 3
+    },
+    {
+      "id": 5,
+      "title": "Belajar React",
+      "completed": false,
+      "priority": 2
+    },
+    {
+      "id": 6,
+      "title": "Perdalam typescript",
+      "completed": false,
+      "priority": 1
+    },
+    {
+      "id": 7,
+      "title": "Tanding futsal",
+      "completed": false,
+      "priority": 2
+    },
+    {
+      "id": 8,
+      "title": "Tengok ibu",
+      "completed": true,
+      "priority": 3
+    },
+    {
+      "id": 9,
+      "title": "Nonton MotoGP Spanyol",
+      "completed": false,
+      "priority": 3
+    },
+    {
+      "id": 10,
+      "title": "Belajar merangkak",
+      "completed": false,
+      "priority": 1
+    },
+    {
+      "id": 11,
+      "title": "Berguling-guling",
+      "completed": false,
+      "priority": 1
+    },
+    {
+      "id": 12,
+      "title": "Ngadem",
+      "completed": false,
+      "priority": 1
+    }
+   ]
+}
