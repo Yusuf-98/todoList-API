@@ -4,13 +4,13 @@
       "id": 1,
       "title": "Kerjakan assignment 5",
       "completed": false,
-      "priority": 3
+      "priority": 2
     },
     {
       "id": 2,
       "title": "Belajar Javascript",
       "completed": false,
-      "priority": 2
+      "priority": 1
     },
     {
       "id": 3,
@@ -22,13 +22,13 @@
       "id": 4,
       "title": "Edit assignment 4",
       "completed": false,
-      "priority": 3
+      "priority": 2
     },
     {
       "id": 5,
       "title": "Belajar React",
       "completed": false,
-      "priority": 2
+      "priority": 1
     },
     {
       "id": 6,
@@ -40,7 +40,7 @@
       "id": 7,
       "title": "Tanding futsal",
       "completed": false,
-      "priority": 2
+      "priority": 1
     },
     {
       "id": 8,
@@ -52,25 +52,25 @@
       "id": 9,
       "title": "Nonton MotoGP Spanyol",
       "completed": false,
-      "priority": 3
+      "priority": 2
     },
     {
       "id": 10,
       "title": "Belajar merangkak",
       "completed": false,
-      "priority": 1
+      "priority": 3
     },
     {
       "id": 11,
       "title": "Berguling-guling",
       "completed": false,
-      "priority": 1
+      "priority": 3
     },
     {
       "id": 12,
       "title": "Ngadem",
       "completed": false,
-      "priority": 1
+      "priority": 3
     }
   ]
 }
