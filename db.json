@@ -2,75 +2,75 @@
   "todos": [
     {
       "id": 1,
-      "title": "Kerjakan assignment 5",
+      "title": "Makan",
       "completed": false,
       "priority": 2
     },
     {
       "id": 2,
-      "title": "Belajar Javascript",
+      "title": "Makan",
       "completed": false,
       "priority": 1
     },
     {
       "id": 3,
-      "title": "Tonton recording class 11",
+      "title": "Tidur",
       "completed": false,
       "priority": 1
     },
     {
       "id": 4,
-      "title": "Edit assignment 4",
+      "title": "Tidur",
       "completed": false,
       "priority": 2
     },
     {
       "id": 5,
-      "title": "Belajar React",
+      "title": "Ngadem",
       "completed": false,
       "priority": 1
     },
     {
       "id": 6,
-      "title": "Perdalam typescript",
+      "title": "Makan",
       "completed": false,
       "priority": 1
     },
     {
       "id": 7,
-      "title": "Tanding futsal",
+      "title": "Tidur",
       "completed": false,
       "priority": 1
     },
     {
       "id": 8,
-      "title": "Tengok ibu",
+      "title": "Makan",
       "completed": true,
       "priority": 3
     },
     {
       "id": 9,
-      "title": "Nonton MotoGP Spanyol",
+      "title": "Ngadem",
       "completed": false,
       "priority": 2
     },
     {
       "id": 10,
-      "title": "Belajar merangkak",
-      "completed": false,
+      "title": "Tidur",
+      "completed": true,
       "priority": 3
     },
     {
       "id": 11,
-      "title": "Berguling-guling",
+      "title": "Ngadem",
       "completed": false,
       "priority": 3
     },
     {
       "id": 12,
-      "title": "Ngadem",
+      "title": "Makan",
       "completed": false,
-      "priority": 3
+      "priority": 1
     }
   ]
 }
