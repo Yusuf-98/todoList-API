@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Makan",
       "completed": false,
-      "priority": 2
+      "priority": 1
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
       "id": 4,
       "title": "Tidur",
       "completed": false,
-      "priority": 2
+      "priority": 1
     },
     {
       "id": 5,
@@ -52,19 +52,19 @@
       "id": 9,
       "title": "Ngadem",
       "completed": false,
-      "priority": 2
+      "priority": 1
     },
     {
       "id": 10,
       "title": "Tidur",
       "completed": true,
-      "priority": 3
+      "priority": 2
     },
     {
       "id": 11,
       "title": "Ngadem",
       "completed": false,
-      "priority": 3
+      "priority": 2
     },
     {
       "id": 12,
