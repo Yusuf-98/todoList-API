@@ -8,37 +8,37 @@
     },
     {
       "id": 2,
-      "title": "Makan",
+      "title": "Tidur",
       "completed": false,
       "priority": 1
     },
     {
       "id": 3,
-      "title": "Tidur",
-      "completed": false,
-      "priority": 1
-    },
-    {
-      "id": 4,
-      "title": "Tidur",
-      "completed": false,
-      "priority": 1
-    },
-    {
-      "id": 5,
       "title": "Ngadem",
       "completed": false,
       "priority": 1
     },
     {
-      "id": 6,
+      "id": 4,
       "title": "Makan",
       "completed": false,
       "priority": 1
     },
     {
-      "id": 7,
+      "id": 5,
       "title": "Tidur",
+      "completed": false,
+      "priority": 1
+    },
+    {
+      "id": 6,
+      "title": "Ngadem",
+      "completed": false,
+      "priority": 1
+    },
+    {
+      "id": 7,
+      "title": "Makan",
       "completed": false,
       "priority": 1
     },
@@ -68,7 +68,7 @@
     },
     {
       "id": 12,
-      "title": "Makan",
+      "title": "Tidur",
       "completed": false,
       "priority": 1
     }
